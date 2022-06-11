@@ -1,7 +1,7 @@
 ### Olá, sou Johão Pedro, estudante de desenvolvimento FrontEnd 👋
 
 - 🔭 Estou trabalhando com FrontEnd
-- 🌱 Estou aprendendo React Js
+- 🌱 Estou aprendendo Python
 - 📫 entre em contato comigo por johaopedro99@gmail.com 
 
 <div align="center">
