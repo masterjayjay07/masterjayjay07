@@ -1,7 +1,7 @@
 ### Olá, sou Johão Pedro, Desenvolvedor web Fullstack 👋
 
-- 🔭 Estou trabalhando com FrontEnd e BackEnd
-- 🌱 Estou aprendendo Vue
+- 🔭 Estou trabalhando com React e Node
+- 🌱 Estou aprendendo Nest
 - 📫 entre em contato comigo por johaopedro99@gmail.com 
 
 <div align="center">
